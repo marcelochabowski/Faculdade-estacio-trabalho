@@ -55,15 +55,20 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas e aprendizado contín
 
 ## 🚀 Projetos Destacados
 
-### 🌟 [Nome do Projeto 1]
+### 🌟 Portal Web Acadêmico
 **Tecnologias:** HTML, CSS, JavaScript  
-**Descrição:** Breve descrição do projeto...  
-**Status:** ✅ Concluído
-
-### 🌟 [Nome do Projeto 2]
-**Tecnologias:** Python, SQLite  
-**Descrição:** Breve descrição do projeto...  
+**Descrição:** Site responsivo desenvolvido para apresentar projetos acadêmicos com interface moderna e intuitiva  
 **Status:** 🔄 Em desenvolvimento
+
+### 🌟 Sistema de Gestão Acadêmica
+**Tecnologias:** Python, SQLite  
+**Descrição:** Aplicação desktop para gerenciamento de notas e frequência de estudantes  
+**Status:** 📋 Planejado
+
+### 🌟 Jogo da Velha em C
+**Tecnologias:** Linguagem C  
+**Descrição:** Implementação clássica do jogo da velha com interface de terminal  
+**Status:** ✅ Concluído
 
 ## 📊 Estatísticas do GitHub
 
