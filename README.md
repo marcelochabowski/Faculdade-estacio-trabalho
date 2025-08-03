@@ -38,7 +38,6 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas e aprendizado contín
 📦 Faculdade-estacio-trabalho/
 ├── 📂 1º-Periodo/
 │   ├── 📂 Algoritmos-e-Programacao/
-│   ├── 📂 Fundamentos-de-TI/
 │   └── 📂 Matematica-Aplicada/
 ├── 📂 2º-Periodo/
 │   ├── 📂 Estruturas-de-Dados/
@@ -66,6 +65,7 @@ Sou apaixonado por tecnologia, desenvolvimento de sistemas e aprendizado contín
 **Status:** 📋 Planejado
 
 ### 🌟 Jogo da Velha em C
+### 🌟 Jogo de Xadrez em C
 **Tecnologias:** Linguagem C  
 **Descrição:** Implementação clássica do jogo da velha com interface de terminal  
 **Status:** ✅ Concluído
